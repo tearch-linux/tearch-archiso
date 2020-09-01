@@ -221,7 +221,7 @@ freetype2
 libgsf
 libopenraw
 poppler-glib
-poppler-qt5
+#poppler-qt5
 
 #########################################################################
 #                  SOFTWARE FROM ARCH LINUX REPOSITORIES
@@ -251,12 +251,12 @@ meld
 nitrogen
 numlockx
 pragha
-qbittorrent
+deluge-gtk
 scrot
-simplescreenrecorder
+kazam
 termite
 variety
-vlc
+#vlc
 
 ###installer and depencies
 17g-live-installer
@@ -334,7 +334,7 @@ libmtp
 laptop-detect
 lsb-release
 mlocate
-nomacs
+#nomacs
 p7zip
 plank
 playerctl
@@ -343,10 +343,10 @@ polkit-gnome
 python2-dbus
 python2-xdg
 #qt4
-qt5ct
+#qt5ct
 #qt5-styleplugins
 #qt5-tools
-qt5-webkit
+#qt5-webkit
 #powertop
 reflector
 #redshift
